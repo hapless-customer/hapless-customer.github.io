@@ -27,7 +27,7 @@ Quote about Glastonbury from Bostrom; relate to above examples
 
 ## Signalling
 
-### Everything Is <i>Not<\i> Signalling
+### Everything Is <i>Not</i> Signalling
   
   
 
