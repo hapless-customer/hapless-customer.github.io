@@ -20,7 +20,9 @@ Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit maur
 
 ## Another great heading (h2)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. And here's a tweet:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The opening sequence of Walt Disney&#39;s Hercules (1997) is filled with depictions of actual works of physical art — an appreciation thread with photos of their real-life objects. Let&#39;s start at the far left before the camera begins to pan right (1/24) <a href="https://t.co/tb9LW0fTSi">pic.twitter.com/tb9LW0fTSi</a></p>&mdash; Christopher Polt (@CBPolt) <a href="https://twitter.com/CBPolt/status/1258218458803777537?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Some great subheading (h3)
 
