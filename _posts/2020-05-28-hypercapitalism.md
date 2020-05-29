@@ -7,7 +7,7 @@ Henry George's single tax is weird and would break a lot of capitalism. Can we c
 
 Setting tax rates is a difficult piece of fiscal policy, possibly the most controversial. What if auctions did it for us? Glen Wyle (ban-all-index-funds guy) wrote in 2016:
 
-^The existing system of private property interferes with allocative efficiency by giving owners the power to hold out for excessive prices. We propose a remedy in the form of a tax on property, based on the value self-assessed by its owner at intervals, along with a requirement that the owner sell the property to any third party willing to pay a price equal to the self-assessed value.
+>The existing system of private property interferes with allocative efficiency by giving owners the power to hold out for excessive prices. We propose a remedy in the form of a tax on property, based on the value self-assessed by its owner at intervals, along with a requirement that the owner sell the property to any third party willing to pay a price equal to the self-assessed value.
 
 Basically, you're constantly auctioning off every item you own, constantly. This doesn't quite fix the tax rate problem, but it gives Georgism a better place to start. A land owner thinks she can make $x with her land, and values it at or above that. The government applies an x% tax (not flat, but not progressive or regressive either. Bumpy?). If a developer comes along with a better use for the land, they can buy it off the original owner at the value she decided. She's better off than she would have been exercising her own idea, and the new owner gets to create something more productive. 
 
