@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Hypercapitalist Taxes"
 ----
 
 Henry George's single tax is weird and would break a lot of capitalism. Can we come up with anything that would break even more? Sure.
