@@ -16,7 +16,10 @@ Realizing the idiocy of this, it's interesting to interrogate the intuition. Did
 As interesting as this is, I find it more worrying that I may be missing something else fundamental. Ignore all metaphors, take everything serious.
 
 
+Also, ]here's a relevant C&H][calvin]: "Half of my life is a complete waste!"
+
 
 
 [smell]: https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it/
 [conscious]: https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/
+[calvin]: https://i.pinimg.com/originals/f1/6a/1c/f16a1c52a8723990f02886ffefcfc79e.gif
